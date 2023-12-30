@@ -71,3 +71,14 @@ footer{
       top: -50px;
       text-align: center;
 }
+
+.form1{
+     text-align: center;
+     width: fit-content;
+     height: fit-content;
+     margin:auto;
+     background-color: crimson;
+     font-size: 30px;
+     padding: 20px 80px;
+     color:white;
+}
