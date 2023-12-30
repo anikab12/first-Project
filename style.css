@@ -76,9 +76,12 @@ footer{
      text-align: center;
      width: fit-content;
      height: fit-content;
-     margin:auto;
+     margin:0 auto;
      background-color: crimson;
      font-size: 30px;
      padding: 20px 80px;
      color:white;
+     margin-top: 10px;
+     border-radius: 5%;
+     outline: none;
 }
